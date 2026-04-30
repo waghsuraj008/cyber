@@ -1,1 +1,1 @@
-hello Suraj
+print("hello Suraj");
